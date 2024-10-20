@@ -51,3 +51,17 @@ print("Hello, World!")
 > bloco 1
 >> nested block
 > bloco 2
+
+***
+
+---
+
+_________________
+
+_italico_ 
+__negrito__
+___negritoItalico___
+
+link: <https://github.com/SrPatsu21/Demonstrativo> \
+[repositorio](https://github.com/SrPatsu21/Demonstrativo) \
+![alt text](image.png)
